@@ -1,0 +1,16 @@
+n_holes,method,elapsed_s
+15,ABC,0.1375
+15,ACO,0.6381
+15,En yakın komşu (NN),0.0
+15,NN + 2-opt,0.0011
+15,Rastgele sıra,0.0001
+30,ABC,0.156
+30,ACO,1.3206
+30,En yakın komşu (NN),0.0001
+30,NN + 2-opt,0.0128
+30,Rastgele sıra,0.0001
+50,ABC,0.1519
+50,ACO,2.164
+50,En yakın komşu (NN),0.0002
+50,NN + 2-opt,0.0422
+50,Rastgele sıra,0.0001
